@@ -4,6 +4,7 @@ email: "contact@tadelech.com"
 description: "የሐሳብ ገበታ  የሚል ስያሜ የሰጠሁትን ይንን ገጼን እንደምትወዱልኝ ተስፋ አደርጋለሁ። ቀደም ሲል በተለያዩ ጊዜያት፥ እና ስሜቶች ውስጥ ሆኜ  በሃሳቤ መጥተው የጻፍኳቸው ጽሁፎችን እንድታነቡ ፖስት ያደረግሁ ሲሆን፥ በገጹ ላይ በተለያዩ ማኅበራዊ ጉዳዮች ዙሪያ የማነሳቸውን ሃሳቦች እና ካነበብኳቸው አስገራሚ ታሪኮችን ለእናንተ ለውድ ወዳጆቼ በማጋራት ከሐሳብ ገበታዬ  ተሳታፊ እንድትሆኑ እጋብዛለሁ።"
 comments: true
 url: "http://tadelech.com" # the base hostname & protocol for your site
+facebook_username: "tadelech.gebru"
 twitter_username: "tadigebru"
 # Build settings
 markdown: kramdown
