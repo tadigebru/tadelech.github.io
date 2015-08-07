@@ -10,6 +10,11 @@
     {% else %}
     <meta property="og:title" content="{{ site.title }}">
     {% endif %}
+    {% if page.title %}
+      <meta property="og:type" content="{{ page.title }}">
+    {% else %}
+      <meta property="og:type" content="{{ site.title }}">
+    {% endif %}
     {% if page.description %}
     <meta property="og:description" content="{{ page.description }}">
     {% else %}
