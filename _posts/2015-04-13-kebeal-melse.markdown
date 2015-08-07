@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ከበዓል መልስ
+img: kebeal-melse.png
 date: 2015-04-13
 categories: Posts
 published: true
